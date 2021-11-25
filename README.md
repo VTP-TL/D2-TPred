@@ -40,7 +40,7 @@ where, we provide trajectories information in pixel.
 **Ldurtime:** column 10, For each xxx.txt file, the Ldurtime represents the durtime of traffic light.   
 
 **Example**
-
+<div align=center>
 ![samples](https://github.com/VTP-TL/Discontinuous-Dependency-for-Trajectory-Prediction-under-Traffic-Lights/blob/main/github4.png)
-
+</div>
 
