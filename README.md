@@ -13,11 +13,15 @@ We choose 3 different traffic intersections, including crossroad, T-junction, an
 # Summary of the Dataset
 In the VTP-TL dataset, we have collected data from 3 different categories of traffic scenarios using drones. The summary of the data is listed in the following table. 
 
-Included Materials
-For the 3 recording scenarios, we include 2 files for each scenarios:  1. The sample of video clips (xxx.mp4) 
-2. Recorded vehicle trajectory file (xxx.txt)  where, we provide trajectories information in pixel.
+![summary](https://github.com/VTP-TL/Discontinuous-Dependency-for-Trajectory-Prediction-under-Traffic-Lights/blob/main/github3.png)
 
-Recorded Vehicle Trajectory files (xxx.txt)
+# Included Materials
+For the 3 recording scenarios, we include 2 files for each scenarios: 
+1. The sample of video clips (xxx.mp4) 
+2. Recorded vehicle trajectory file (xxx.txt) 
+where, we provide trajectories information in pixel.
+
+# Recorded Vehicle Trajectory files (xxx.txt)
 frame_id: column 1. For each agent (per Agent_id), frame_id represents the frames the agent appears in the video.
 Agent_id: column 2. For each xxx.txt file, the Agent_id starts from 0, and represent the ID of the agent.
 x: column 3, the x position of the agent at each frame. The unit is pixel.
@@ -30,5 +34,7 @@ Mb: column 9, For each xxx.txt file, the Mb is set as 0, 1 and 2, and represents
 Ldurtime: column 10, For each xxx.txt file, the Ldurtime represents the durtime of traffic light. 
 
 Example
+
+![samples](https://github.com/VTP-TL/Discontinuous-Dependency-for-Trajectory-Prediction-under-Traffic-Lights/blob/main/github4.png)
 
 
