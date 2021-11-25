@@ -4,7 +4,7 @@ The data in VTP-TL comes from at urban intersections with traffic lights is used
 
 
 
-<img src="https://github.com/VTP-TL/Discontinuous-Dependency-for-Trajectory-Prediction-under-Traffic-Lights/blob/main/github1.png" width="900" height="600" alt=" "/><br/>
+<img src="https://github.com/VTP-TL/Discontinuous-Dependency-for-Trajectory-Prediction-under-Traffic-Lights/blob/main/github1.png" width="1000" height="500" alt=" "/><br/>
 
 
 # Where was the data collected?
