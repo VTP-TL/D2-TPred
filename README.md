@@ -1,6 +1,6 @@
 # D2 TPred : Discontinuous Dependency for Trajectory Prediction under Traffic Lights
 # How was the data collected?
-The data in VTP-TL comes from at urban intersections with traffic lights is used to predict vehicles trajectory which is operating in Zhengzhou—one China city across different times of day and provides a broad range of real-world driving scenarios. We use drones to hover at 70 to 120 meters above the traffic intersections, as statically as possible, to record vehicle trajectories passing through the area with a bird’s-eye view in the daytime of the non-rush hours, rush hours, and the evening.
+The data in VTP-TL comes from at urban intersections with traffic lights is used to predict vehicles trajectory which is operating in one China city across different times of day and provides a broad range of real-world driving scenarios. We use drones to hover at 70 to 120 meters above the traffic intersections, as statically as possible, to record vehicle trajectories passing through the area with a bird’s-eye view in the daytime of the non-rush hours, rush hours, and the evening.
 
 
 <div align=center>
