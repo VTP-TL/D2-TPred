@@ -18,7 +18,7 @@ We choose 3 different traffic intersections, including crossroad, T-junction, an
 In the VTP-TL dataset, we have collected data from 3 different categories of traffic scenarios using drones. The summary of the data is listed in the following table. 
 
 <div align=center>
-<img src="https://github.com/VTP-TL/Discontinuous-Dependency-for-Trajectory-Prediction-under-Traffic-Lights/blob/main/github3.png" width="1197" height="780" alt=" "/><br/>
+<img src="https://github.com/VTP-TL/Discontinuous-Dependency-for-Trajectory-Prediction-under-Traffic-Lights/blob/main/github3.png" width="898" height="585" alt=" "/><br/>
 </div>
 
 # Included Materials
