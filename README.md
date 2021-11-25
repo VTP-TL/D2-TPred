@@ -41,6 +41,6 @@ where, we provide trajectories information in pixel.
 
 **Example**
 <div align=center>
-![samples](https://github.com/VTP-TL/Discontinuous-Dependency-for-Trajectory-Prediction-under-Traffic-Lights/blob/main/github4.png)
+<img src="https://github.com/VTP-TL/Discontinuous-Dependency-for-Trajectory-Prediction-under-Traffic-Lights/blob/main/github4.png" alt=" "/><br/>
 </div>
 
