@@ -11,7 +11,7 @@ The data in VTP-TL comes from at urban intersections with traffic lights is used
 We choose 3 different traffic intersections, including crossroad, T-junction, and roundabout scenarios. In these scenario, they own the different number of roads and traffic lights, and cause to different movement behaviors for vehicles.
 
 <div align=center>
-<img src="https://github.com/VTP-TL/Discontinuous-Dependency-for-Trajectory-Prediction-under-Traffic-Lights/blob/main/github2.png" width="894" height="735" alt=" "/><br/>
+<img src="https://github.com/VTP-TL/Discontinuous-Dependency-for-Trajectory-Prediction-under-Traffic-Lights/blob/main/github2.png" width="890" height="732" alt=" "/><br/>
 </div>
 
 # Summary of the Dataset
