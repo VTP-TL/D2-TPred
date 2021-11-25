@@ -39,7 +39,7 @@ where, we provide trajectories information in pixel.
 **Mb:** column 9, For each xxx.txt file, the Mb is set as 0, 1 and 2, and represents the movement behaviors of vehicle.    
 **Ldurtime:** column 10, For each xxx.txt file, the Ldurtime represents the durtime of traffic light.   
 
-**Example**
+**Example:**
 <div align=center>
 <img src="https://github.com/VTP-TL/Discontinuous-Dependency-for-Trajectory-Prediction-under-Traffic-Lights/blob/main/github4.png" alt=" "/><br/>
 </div>
