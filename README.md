@@ -22,16 +22,16 @@ For the 3 recording scenarios, we include 2 files for each scenarios:
 where, we provide trajectories information in pixel.
 
 # Recorded Vehicle Trajectory files (xxx.txt)
-frame_id: column 1. For each agent (per Agent_id), frame_id represents the frames the agent appears in the video.
-Agent_id: column 2. For each xxx.txt file, the Agent_id starts from 0, and represent the ID of the agent.
-x: column 3, the x position of the agent at each frame. The unit is pixel.
-y: column 4, the y position of the agent at each frame. The unit is pixel.
-Lid: column 5, For each xxx.txt file, the Lid starts from 0, and represent the ID of the traffic light.
-inperception: column 6, For each xxx.txt file, the inperception is set as 0 or 1, and represent whether vehicle locates in the influencing area of traffic light. 
-isfirstobj: column 7, For each xxx.txt file, the isfirstobj is set as 0 or 1, and represent whether vehicle is the first agent in the influencing area of traffic light.
-Ls: column 8, For each xxx.txt file, the Ls is set as 0, 1 and 2, and represents the state of traffic light. 
-Mb: column 9, For each xxx.txt file, the Mb is set as 0, 1 and 2, and represents the movement behaviors of vehicle. 
-Ldurtime: column 10, For each xxx.txt file, the Ldurtime represents the durtime of traffic light.
+frame_id: column 1. For each agent (per Agent_id), frame_id represents the frames the agent appears in the video.    
+Agent_id: column 2. For each xxx.txt file, the Agent_id starts from 0, and represent the ID of the agent.   
+x: column 3, the x position of the agent at each frame. The unit is pixel.     
+y: column 4, the y position of the agent at each frame. The unit is pixel.   
+Lid: column 5, For each xxx.txt file, the Lid starts from 0, and represent the ID of the traffic light.   
+inperception: column 6, For each xxx.txt file, the inperception is set as 0 or 1, and represent whether vehicle locates in the influencing area of traffic light.    
+isfirstobj: column 7, For each xxx.txt file, the isfirstobj is set as 0 or 1, and represent whether vehicle is the first agent in the influencing area of traffic light.    
+Ls: column 8, For each xxx.txt file, the Ls is set as 0, 1 and 2, and represents the state of traffic light.    
+Mb: column 9, For each xxx.txt file, the Mb is set as 0, 1 and 2, and represents the movement behaviors of vehicle.    
+Ldurtime: column 10, For each xxx.txt file, the Ldurtime represents the durtime of traffic light.   
 
 Example
 
