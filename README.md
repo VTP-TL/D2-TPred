@@ -4,21 +4,21 @@ The data in VTP-TL comes from at urban intersections with traffic lights is used
 
 
 <div align=center>
-<img src="https://github.com/VTP-TL/Discontinuous-Dependency-for-Trajectory-Prediction-under-Traffic-Lights/blob/main/drone.png" width="780" height="312" alt=" "/><br/>
+<img src="https://github.com/VTP-TL/D2-TPred/blob/main/drone.png" width="780" height="312" alt=" "/><br/>
 </div>
 
 # Where was the data collected?
 We choose 3 different traffic intersections, including crossroad, T-junction, and roundabout scenarios. In these scenario, they own the different number of roads and traffic lights, and cause to different movement behaviors for vehicles.
 
 <div align=center>
-<img src="https://github.com/VTP-TL/Discontinuous-Dependency-for-Trajectory-Prediction-under-Traffic-Lights/blob/main/scenarios.png" width="762" height="628" alt=" "/><br/>
+<img src="https://github.com/VTP-TL/D2-TPred/blob/main/scenarios.png" width="762" height="628" alt=" "/><br/>
 </div>
 
 # Summary of the Dataset
 In the VTP-TL dataset, we have collected data from 3 different categories of traffic scenarios using drones. The summary of the data is listed in the following table. 
 
 <div align=center>
-<img src="https://github.com/VTP-TL/Discontinuous-Dependency-for-Trajectory-Prediction-under-Traffic-Lights/blob/main/summary.png" width="772" height="503" alt=" "/><br/>
+<img src="https://github.com/VTP-TL/D2-TPred/blob/main/summary.png" width="772" height="503" alt=" "/><br/>
 </div>
 
 # Included Materials
@@ -41,6 +41,6 @@ where, we provide trajectories information in pixel.
 
 **Example:**
 <div align=center>
-<img src="https://github.com/VTP-TL/Discontinuous-Dependency-for-Trajectory-Prediction-under-Traffic-Lights/blob/main/smaple.png" alt=" "/><br/>
+<img src="https://github.com/VTP-TL/D2-TPred/blob/main/smaple.png" alt=" "/><br/>
 </div>
 
