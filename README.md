@@ -33,7 +33,7 @@ where, we provide trajectories information in pixel.
 **x:** column 3, the x position of the agent at each frame. The unit is pixel.     
 **y:** column 4, the y position of the agent at each frame. The unit is pixel.   
 **Lane_id:** column 5, For each xxx.txt file, the Lane_id starts from 0, and represent the ID of the traffic lane.   
-**inperception:** column 6, For each xxx.txt file, the inperception is set as 0 or 1, and represent whether vehicle locates in the influencing area of traffic light.
+**inperception:** column 6, For each xxx.txt file, the inperception is set as 0 or 1, and represent whether vehicle locates in the influencing area of traffic light.   
 **isfirstobj:** column 7, For each xxx.txt file, the isfirstobj is set as 0 or 1, and represent whether vehicle is the first agent in the influencing area of traffic light.   
 **Lig_id:** column 8, For each xxx.txt file, the Lig_id starts from 0, and represent the ID of the traffic light.   
 **Ls:** column 9, For each xxx.txt file, the Ls is set as 0, 1 and 2, and represents the state of traffic light.   
