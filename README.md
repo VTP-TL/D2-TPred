@@ -15,7 +15,7 @@ We choose 3 different traffic intersections, including crossroad, T-junction, an
 </div>
 
 # Summary of the Dataset 
-In the VTP-TL dataset [Alt VTP-TL](https://pan.baidu.com/s/1ecpsxnmtGcZ4X8ckb59wcA), we have collected data from 3 different categories of traffic scenarios using drones. The summary of the data is listed in the following table. 
+In the [VTP-TL](https://pan.baidu.com/s/1ecpsxnmtGcZ4X8ckb59wcA) dataset, we have collected data from 3 different categories of traffic scenarios using drones. The summary of the data is listed in the following table. 
 
 <div align=center>
 <img src="https://github.com/VTP-TL/D2-TPred/blob/main/summary.png" width="772" height="503" alt=" "/><br/>
